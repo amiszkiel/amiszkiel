@@ -1,8 +1,6 @@
 <h1><b>Welcome to my GitHub's profile 👋 </b></h1> 
 <p><b>Let me introduce myself to you!  &#128522;</b></p>
 <p></p>
-<hr>
-<p></p>
 <p align="justify"> 
 I am an aspiring <b> junior software tester</b>, who is always striving to improve my skills and abilities. I used to work in <b>quality assurance</b> for manufacturing companies, but now I desire to explore new quality assurance opportunities. My experience has made me an <b>insightful person who pays attention to details</b>. I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in <b>test automation.</b> Through my training, I am familiar with areas such as <b>exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects</b>. I'm still learning tools such as <b>SQL</b>, <b>Postman</b>. So far I have also met <b>Chrome DevTools</b>, <b>Jira</b>, <b>Confluence</b>, <b>GIT</b>, and <b>GitHub</b>. 
 
