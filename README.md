@@ -7,7 +7,7 @@
 desire to explore new quality assurance opportunities. My experience has made me an <b>insightful person who pays attention to details</b>. I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in <b>test automation.</b> Through my training, I am familiar with areas such as <b>exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects</b>. I'm still learning tools such as <b>SQL</b>, <b>Postman</b>. So far I have also met <b>Chrome DevTools</b>, <b>Jira</b>, <b>Confluence</b>, <b>GIT</b>, and <b>GitHub</b>. </p>
 
 <hr>
-<p><b>Are you interested my profile? &#129300; </b></p>
+<p>Are you interested my profile? &#129300;</p>
 <p><b><i>Visit my portfolio!</i></b><p>
 
 <!--
