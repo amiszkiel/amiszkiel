@@ -1,4 +1,4 @@
-### <span style="color: beige; font-weight: bold; font-style: italic; font-family: 'Segoe UI', sans-serif;">Welcome to my GitHub's profile 👋
+<span style="color: beige; font-weight: bold; font-style: italic; font-family: 'Segoe UI', sans-serif;">Welcome to my GitHub's profile 👋
 </span>
 <hr>
 
