@@ -1,4 +1,4 @@
-### Welcome to my GitHub's profile 👋
+### <i>Welcome to my GitHub's profile</i> 👋
 
 <hr>
 <p><b>Let me introduce myself to you!  &#128522;</b></p>
