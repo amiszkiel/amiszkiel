@@ -1,4 +1,4 @@
-<h1 tekst algin="center"><b>Welcome to my GitHub's profile 👋 </b></h1> 
+<h1><b>Welcome to my GitHub's profile 👋 </b></h1> 
 <h2><b>Let me introduce myself to you!  &#128522;</b></h2>
 <p></p>
 <p align="justify"> 
@@ -6,7 +6,7 @@ I am an aspiring <b> junior software tester</b>, who is always striving to impro
 
 <hr>
 <p>Are you interested in my profile? &#129300;</p>
-<p><b><i><a href="https://github.com/amiszkiel/MY-PORTFOLIO">Visit my portfolio!</a></i></b><p>
+<h2><b><i><a href="https://github.com/amiszkiel/MY-PORTFOLIO">Visit my portfolio!</a></i></b></h2>
 
 <!--
 **amiszkiel/amiszkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
