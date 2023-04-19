@@ -1,4 +1,4 @@
-<h1><b>Welcome to my GitHub's profile 👋 </b></h1> 
+<h1 tekst algin="center"><b>Welcome to my GitHub's profile 👋 </b></h1> 
 <h2><b>Let me introduce myself to you!  &#128522;</b></h2>
 <p></p>
 <p align="justify"> 
