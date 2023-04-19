@@ -6,7 +6,7 @@ I am an aspiring <b> junior software tester</b>, who is always striving to impro
 
 </p>
 <p>Are you interested in my profile? &#129300;</p>
-<h2><b><i><a href="https://github.com/amiszkiel/MY-PORTFOLIO"> &#x2728; Visit my portfolio!<p></p></a></i></b></h2>
+<h2 colour="pink"><b><i><a href="https://github.com/amiszkiel/MY-PORTFOLIO"> &#x2728; Visit my portfolio!<p></p></a></i></b></h2>
 
 <!--
 **amiszkiel/amiszkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
