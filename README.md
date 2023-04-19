@@ -1,7 +1,8 @@
 ### Welcome to my GitHub's profile👋
 
+<p algin="justify">
 I am an aspiring software tester, who is always striving to improve my skills and abilities. I used to work in quality assurance for manufacturing companies, but now I
-desire to explore new quality assurance opportunities. My experience has made me an insightful person who pays attention to details. I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in test automation. Through my training, I am familiar with areas such as exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects. I'm still learning tools such as SQL, Postman. So far I have also met Chrome DevTools, Jira, Confluence, GIT, and GitHub. 
+desire to explore new quality assurance opportunities. My experience has made me an insightful person who pays attention to details. I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in test automation. Through my training, I am familiar with areas such as exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects. I'm still learning tools such as SQL, Postman. So far I have also met Chrome DevTools, Jira, Confluence, GIT, and GitHub. </p>
 <!--
 **amiszkiel/amiszkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
