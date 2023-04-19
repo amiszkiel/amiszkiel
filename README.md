@@ -3,8 +3,8 @@
 <hr>
 <p><b>Let me introduce myself to you!  &#128522;</b></p>
 <p align="justify" style="font-family: georgia"> 
-I am an aspiring software tester, who is always striving to improve my skills and abilities. I used to work in quality assurance for manufacturing companies, but now I
-desire to explore new quality assurance opportunities. My experience has made me an insightful person who pays attention to details. I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in test automation. Through my training, I am familiar with areas such as exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects. I'm still learning tools such as SQL, Postman. So far I have also met Chrome DevTools, Jira, Confluence, GIT, and GitHub. </p>
+  I am an aspiring <b> junior software tester </b>, who is always striving to improve my skills and abilities. I used to work in <b>quality assurance</b> for manufacturing companies, but now I
+desire to explore new quality assurance opportunities. My experience has made me an <b>insightful person who pays attention to details</b>. I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in <b>test automation.</b> Through my training, I am familiar with areas such as <b>exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects</b>. I'm still learning tools such as <b>SQL</b>, <b>Postman</b>. So far I have also met <b>Chrome DevTools</b>, <b>Jira</b>, <b>Confluence</b>, <b>GIT</b>, and <b>GitHub</b>. </p>
 <!--
 **amiszkiel/amiszkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
