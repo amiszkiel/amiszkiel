@@ -8,7 +8,7 @@ I am an aspiring <b> junior software tester</b>, who is always striving to impro
 <ul>
   <li><a href="https://github.com/amiszkiel/SQL.git">SQL</a>
   <li><a href="https://github.com/amiszkiel/BUG_REPORTS.git">BUG_REPORTS</a>
-  <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT</a>
+  <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(app is here &#127760;)</a></a>
         </ul>
   
   
