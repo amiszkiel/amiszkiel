@@ -11,7 +11,7 @@ I am an aspiring <b> junior software tester</b>, who is always striving to impro
   <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(my app lives here &#127760;)</a></a>
         </ul>
   
-  <a> My portfolio is under construction &#128679; for now <a>
+  <a> My portfolio is under construction &#128679; ...for now <a>
   
 <!--</p>
 <p>Are you interested in my profile? &#129300;</p>
