@@ -6,7 +6,7 @@ I am an aspiring <b> junior software tester</b>, who is always striving to impro
  
 <p>Are you interested in my profile? &#129300;</p>
 
-<img src="!https://user-images.githubusercontent.com/117541170/236679899-6f58178a-3027-4d60-a144-5d1e82e7828f.jpg">
+<a href="https://github.com/amiszkiel/MY-PORTFOLIO"><img src="https://user-images.githubusercontent.com/117541170/236679899-6f58178a-3027-4d60-a144-5d1e82e7828f.jpg"></a>
 
 <h2><b><a href="https://github.com/amiszkiel/MY-PORTFOLIO"> &#x2728; MY PORTFOLIO <p></p></a></b></h2>
 <!--
