@@ -16,7 +16,7 @@ I am an aspiring <b> junior software tester</b>, who is always striving to impro
 <p>Are you interested in my profile? &#129300;</p>
 
 <h2><b><i><a href="https://github.com/amiszkiel/MY-PORTFOLIO"> &#x2728; Visit my portfolio and know me better!<p></p></a></i></b></h2>
-<img src="https://user-images.githubusercontent.com/117541170/236679259-c30fc4a1-77c3-48d0-8afc-26e4c2e81e91.jpg" width="70%" height="70%" style="max-width: 100%;">
+<img src="https://user-images.githubusercontent.com/117541170/236679259-c30fc4a1-77c3-48d0-8afc-26e4c2e81e91.jpg" width="70%" height="100%" style="max-width: 100%;">
 <!--
 **amiszkiel/amiszkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
