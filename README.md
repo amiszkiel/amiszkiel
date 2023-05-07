@@ -14,6 +14,7 @@ I am an aspiring <b> junior software tester</b>, who is always striving to impro
  
  
 <p>Are you interested in my profile? &#129300;</p>
+![baner na introduce](https://user-images.githubusercontent.com/117541170/236679259-c30fc4a1-77c3-48d0-8afc-26e4c2e81e91.jpg)
 <h2><b><i><a href="https://github.com/amiszkiel/MY-PORTFOLIO"> &#x2728; Visit my portfolio and know me better!<p></p></a></i></b></h2>
 
 <!--
