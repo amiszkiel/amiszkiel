@@ -8,7 +8,7 @@ I am an aspiring <b> junior software tester</b>, who is always striving to impro
 
 <a href="https://github.com/amiszkiel/MY-PORTFOLIO"><img src="https://user-images.githubusercontent.com/117541170/236679899-6f58178a-3027-4d60-a144-5d1e82e7828f.jpg"></a>
 
-Thank you &#x2728
+<a> Thank you &#x2728; </a>
 <!--<a href="https://github.com/amiszkiel/MY-PORTFOLIO"> &#x2728;  </a>
 <!--
 **amiszkiel/amiszkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
