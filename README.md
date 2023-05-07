@@ -12,12 +12,9 @@ I am an aspiring <b> junior software tester</b>, who is always striving to impro
   <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(my app lives here &#127760;)</a></a>
         </ul>
  
-  
-  <a> My portfolio is under construction &#128679; ...for now <a>
-  
-<!--</p>
+ 
 <p>Are you interested in my profile? &#129300;</p>
-<h2><b><i><a href="https://github.com/amiszkiel/MY-PORTFOLIO"> &#x2728; Visit my portfolio!<p></p></a></i></b></h2>
+<h2><b><i><a href="https://github.com/amiszkiel/MY-PORTFOLIO"> &#x2728; Visit my portfolio and know me better!<p></p></a></i></b></h2>
 
 <!--
 **amiszkiel/amiszkiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
