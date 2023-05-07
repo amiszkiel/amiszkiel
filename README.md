@@ -3,15 +3,6 @@
 <p></p>
 <p align="justify"> 
 I am an aspiring <b> junior software tester</b>, who is always striving to improve my skills and abilities. My experience has made me an <b>insightful and paying attention to details</b>. I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in <b>test automation.</b> Through my training, I am familiar with areas such as <b>exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects</b>. I'm still learning tools such as <b>SQL</b>, <b>Postman</b>, <b>Cypress</b>. So far I have also met <b>Chrome DevTools</b>, <b>VSC</b>, <b>Jira</b>, <b>Confluence</b>, <b>GIT</b>, and <b>GitHub</b>. 
-
-<p><b>&#128170; You can find my various exercises here:</b></p>  
-<ul>
-  <li><a href="https://github.com/amiszkiel/SQL.git">SQL</a>
-  <li><a href="https://github.com/amiszkiel/BUG_REPORTS.git">BUG REPORTS</a>
-  <li><a href="https://github.com/amiszkiel/TEST-CASES">TEST CASES</a>
-  <li><a href="https://github.com/amiszkiel/bmi_calculator.git">JAVASCRIPT <a href="https://amiszkiel.github.io/bmi_calculator/">(my app lives here &#127760;)</a></a>
-        </ul>
- 
  
 <p>Are you interested in my profile? &#129300;</p>
 
