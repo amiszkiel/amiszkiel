@@ -4,7 +4,7 @@
 <p align="justify"> 
 I am an aspiring <b> junior software tester</b>, who is always striving to improve my skills and abilities. My experience has made me an <b>insightful and paying attention to details</b>. I enjoy learning and expanding my knowledge, and find joy in doing so. I am excited to pursue new experiences and broaden my horizons, so I am keen on developing myself in <b>test automation.</b> Through my training, I am familiar with areas such as <b>exploratory testing, testing websites and mobile applications, REST API testing, creating test cases and reports, and reporting defects</b>. I'm still learning tools such as <b>SQL</b>, <b>Postman</b>, <b>Cypress</b>. So far I have also met <b>Chrome DevTools</b>, <b>VSC</b>, <b>Jira</b>, <b>Confluence</b>, <b>GIT</b>, and <b>GitHub</b>. 
  
-<p>Are you interested in my profile? &#129300;</p>
+<p>Are you interested in my profile? &#129300; Click below and ... </p>
 
 <a href="https://github.com/amiszkiel/MY-PORTFOLIO"><img src="https://user-images.githubusercontent.com/117541170/236679899-6f58178a-3027-4d60-a144-5d1e82e7828f.jpg"></a>
 
